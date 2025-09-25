@@ -28,7 +28,7 @@ Berikut Screenshot code dari Visual Studio Code
 
 # 4 Menambhkan judul 
 
-- Menambahkan judul <h1> dan subjudul <h2>
+* Menambahkan judul ```<h1>``` dan subjudul ```<h2>```
 
 Berikut  Screenshot code dari Visual Studio Code 
 
