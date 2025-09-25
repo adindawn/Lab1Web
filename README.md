@@ -1,6 +1,6 @@
-### PRAKTIKUM 1 : HTML DASAR 
+# PRAKTIKUM 1 : HTML DASAR 
 
-# LANGKAH-LANGKAH PRAKTIKUM 
+### LANGKAH-LANGKAH PRAKTIKUM 
 
 # 1. Membuat Repository
 
@@ -80,26 +80,26 @@ Berikut  Screenshot code dari Visual Studio Code
 
 ## Pertanyaan dan Jawaban Teori 
 
-# 1. Apa yang terjadi jika ada kesalahan penulisan tag? 
+1. Apa yang terjadi jika ada kesalahan penulisan tag? 
 Browser akan berusaha membaca dan memperbaiki kode secara oromatis namun hasil struktur halaman bisa menjadi berantakan. 
 
 
-# 2. Perbedaan ```<p>``` dan ```<br>``` ?
+2. Perbedaan ```<p>``` dan ```<br>``` ?
 tag ```<p>``` digunakan untuk membuat sebuah paragraf.
 tag ```<br>``` digunakan untuk membuat baris baru tanpa memulai paragraf baru. 
 
 
-# 3. Perbedaan atribut ```Title``` dan ```alt``` pada ```<img>``` ?
+3. Perbedaan atribut ```Title``` dan ```alt``` pada ```<img>``` ?
 ```title``` atribut ini memberikan keterangan tambahan tentang gambar yang akan muncul ketika kursor diarahkan kegambar.
 ```alt``` untuk memberikan teks alternatif jika gambar tidak dapat ditampilkan. 
 
 
-# 4. Pengaturan ukuran gambar (```width``` dan ```height```) ?
+4. Pengaturan ukuran gambar (```width``` dan ```height```) ?
 Sebaiknya hanya isi salah satu atribut (misalnya ```width```).
 Kalau keduanya diisi sembarangan, gambar bisa jadi gepeng/terdistorsi.
 
 
-# 5. Fungsi atribut ```target``` pada link ? 
+5. Fungsi atribut ```target``` pada link ? 
 
 * ```_blank``` → buka link di tab baru
 * ```_self``` → buka di tab yang sama (default)
