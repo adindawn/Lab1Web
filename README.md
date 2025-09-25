@@ -12,7 +12,7 @@
 
       buat file baru dengan nama Lab_tag_dasar.html
    
-     <img width="608" height="287" alt="Screenshot 2025-09-25 192634" src="https://github.com/user-attachments/assets/a325d519-fff6-40a9-b50a-eab8d2955bf1" />
+ <img width="608" height="287" alt="Screenshot 2025-09-25 192634" src="https://github.com/user-attachments/assets/a325d519-fff6-40a9-b50a-eab8d2955bf1" />
 
 # 3. Membuat Paragraf 
 
