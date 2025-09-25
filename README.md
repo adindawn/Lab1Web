@@ -18,8 +18,8 @@ buat file baru dengan nama Lab_tag_dasar.html
 
 # 3. Membuat Paragraf 
 
-- Menambahkan beberapa paragraf menggunakan tag <p>.
-- Menggunakan atribut align (center dan right).
+*Menambahkan beberapa paragraf menggunakan tag <p>.
+* Menggunakan atribut align (center dan right).
 
 Berikut Screenshot code dari Visual Studio Code 
 
@@ -59,7 +59,7 @@ Membuat navigasi link ke halaman lain (lab1_halaman2.html)
 
 Berikut  Screenshot code dari Visual Studio Code 
 
-<img width="377" height="85" alt="Screenshot 2025-09-25 224424" src="https://github.com/user-attachments/assets/e6615921-0b1d-4b26-a3f1-9c56f33cba3f" />
+  <img width="377" height="85" alt="Screenshot 2025-09-25 224424" src="https://github.com/user-attachments/assets/e6615921-0b1d-4b26-a3f1-9c56f33cba3f" />
 
 # Berikut Hasilnya 
 
@@ -67,9 +67,12 @@ Berikut  Screenshot code dari Visual Studio Code
   
 <img width="1340" height="609" alt="Screenshot 2025-09-25 224631" src="https://github.com/user-attachments/assets/cddcf965-5fc4-4b29-b874-342e167997ba" />
 
+
+
   * Halaman kedua
 
   <img width="782" height="534" alt="Screenshot 2025-09-25 224838" src="https://github.com/user-attachments/assets/9a3c3de3-c5bc-4a6c-94a7-2124604122f1" />
+
 
 
 ## Pertanyaan dan Jawaban Teori 
