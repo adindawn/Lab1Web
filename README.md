@@ -37,7 +37,7 @@ Berikut  Screenshot code dari Visual Studio Code
 
 # 5 Memformat teks 
 
-Menggunakan tag <b>, <i>, <del>.
+Menggunakan tag  <b>, <i>, <del>.
 
 Berikut  Screenshot code dari Visual Studio Code 
 
@@ -63,11 +63,11 @@ Berikut  Screenshot code dari Visual Studio Code
 
 # Berikut Hasilnya 
 
-- Halaman pertama
+   * Halaman pertama
   
 <img width="1340" height="609" alt="Screenshot 2025-09-25 224631" src="https://github.com/user-attachments/assets/cddcf965-5fc4-4b29-b874-342e167997ba" />
 
-- Halaman kedua
+  * Halaman kedua
 
   <img width="782" height="534" alt="Screenshot 2025-09-25 224838" src="https://github.com/user-attachments/assets/9a3c3de3-c5bc-4a6c-94a7-2124604122f1" />
 
