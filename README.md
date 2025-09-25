@@ -1,17 +1,17 @@
-# PRAKTIKUM 1 : HTML DASAR 
+### PRAKTIKUM 1 : HTML DASAR 
 
 # LANGKAH-LANGKAH PRAKTIKUM 
 
 # 1. Membuat Repository
 
-* membuat repository baru dengan nama Lab1Web
+membuat repository baru dengan nama Lab1Web
       
   <img width="786" height="622" alt="Screenshot 2025-09-25 190810" src="https://github.com/user-attachments/assets/7948d39c-f5fa-4516-994b-b83640f410fe" />
 
 
 # 2. Membuat file baru HTML
 
-buat file baru dengan nama Lab_tag_dasar.html
+buat file baru dengan nama ```Lab_tag_dasar.html```
    
  <img width="608" height="287" alt="Screenshot 2025-09-25 192634" src="https://github.com/user-attachments/assets/a325d519-fff6-40a9-b50a-eab8d2955bf1" />
 
@@ -37,7 +37,7 @@ Berikut  Screenshot code dari Visual Studio Code
 
 # 5 Memformat teks 
 
-Menggunakan tag  <b>,<i>,<del>.
+Menggunakan tag  ```<b>, <i>, <del>```.
 
 Berikut  Screenshot code dari Visual Studio Code 
 
@@ -46,7 +46,7 @@ Berikut  Screenshot code dari Visual Studio Code
 
 # 6 Menyisipkan gambar 
 
-Menambahkan gambar menggunakan tag <img> dengan atribut scr, width, alt
+Menambahkan gambar menggunakan tag ```<img>``` dengan atribut ```scr```, ```width```, ```alt```
 
 Berikut  Screenshot code dari Visual Studio Code 
 
@@ -55,7 +55,7 @@ Berikut  Screenshot code dari Visual Studio Code
 
 # 7. Menambahkan Hyperlink 
 
-Membuat navigasi link ke halaman lain (lab1_halaman2.html)
+Membuat navigasi link ke halaman lain (```lab1_halaman2.html```)
 
 Berikut  Screenshot code dari Visual Studio Code 
 
@@ -65,21 +65,46 @@ Berikut  Screenshot code dari Visual Studio Code
 
    * Halaman pertama
   
-<img width="1340" height="609" alt="Screenshot 2025-09-25 224631" src="https://github.com/user-attachments/assets/cddcf965-5fc4-4b29-b874-342e167997ba" />
+
+  <img width="1340" height="609" alt="Screenshot 2025-09-25 224631" src="https://github.com/user-attachments/assets/cddcf965-5fc4-4b29-b874-342e167997ba" />
 
 
 
   * Halaman kedua
 
+
   <img width="782" height="534" alt="Screenshot 2025-09-25 224838" src="https://github.com/user-attachments/assets/9a3c3de3-c5bc-4a6c-94a7-2124604122f1" />
+
 
 
 
 ## Pertanyaan dan Jawaban Teori 
 
-# 1. Apa yang terjadi jika ada kesalahan penulis tag? 
+# 1. Apa yang terjadi jika ada kesalahan penulisan tag? 
+Browser akan berusaha membaca dan memperbaiki kode secara oromatis namun hasil struktur halaman bisa menjadi berantakan. 
 
 
+# 2. Perbedaan ```<p>``` dan ```<br>``` ?
+tag ```<p>``` digunakan untuk membuat sebuah paragraf.
+tag ```<br>``` digunakan untuk membuat baris baru tanpa memulai paragraf baru. 
+
+
+# 3. Perbedaan atribut ```Title``` dan ```alt``` pada ```<img>``` ?
+```title``` atribut ini memberikan keterangan tambahan tentang gambar yang akan muncul ketika kursor diarahkan kegambar.
+```alt``` untuk memberikan teks alternatif jika gambar tidak dapat ditampilkan. 
+
+
+# 4. Pengaturan ukuran gambar (```width``` dan ```height```) ?
+Sebaiknya hanya isi salah satu atribut (misalnya ```width```).
+Kalau keduanya diisi sembarangan, gambar bisa jadi gepeng/terdistorsi.
+
+
+# 5. Fungsi atribut ```target``` pada link ? 
+
+* ```_blank``` → buka link di tab baru
+* ```_self``` → buka di tab yang sama (default)
+* ```_top```→ buka di jendela utama (hilangkan frame)
+* ```_parent``` → buka di frame induk (kalau ada iframe)
 
 
 
